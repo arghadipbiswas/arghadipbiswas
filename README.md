@@ -1,5 +1,5 @@
 ### Hi there 👋
-  ##### Hello World , I'm Arghadip:
+  #####  I'm Arghadip:
 
 
 - 🎓Computer Science undergrad from GNIT ,Kolkata
