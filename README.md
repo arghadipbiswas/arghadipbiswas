@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghadip&label=Profile%20views&color=0e75b6&style=flat" alt="arghadip" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ArghadipBiswas4" target="blank"><img src="https://img.shields.io/twitter/follow/arghadip?logo=twitter&style=for-the-badge" alt="arghadip" /></a> </p>
-<br>
+<br><br>
 
 - 🎓Computer Science undergrad from GNIT ,Kolkata
 - :speech_balloon: Ask me about Front-End_web,Application development or literally anything!
 - 📫 How to reach me **arghadipbiswas4076@gmail.com**
 - :mailbox: You can reach me with the links below :
-<br><br>
+<br><br><br>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghadip-biswas-756a03202/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghadipbiswas4076@gmail.com)
