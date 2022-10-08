@@ -29,11 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 <!-- ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) -->
-
-
-
-
- 
+<br> 
 <h2 align="center">-: Welcome to my place of passion :- </h2>
 
 
