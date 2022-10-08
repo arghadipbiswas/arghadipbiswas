@@ -11,7 +11,7 @@
 - :speech_balloon: Ask me about Front-End_web,Application development or literally anything!
 - 📫 How to reach me **arghadipbiswas4076@gmail.com**
 - :mailbox: You can reach me with the links below :
-<br><br><br>
+<br><br><br><br>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghadip-biswas-756a03202/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghadipbiswas4076@gmail.com)
