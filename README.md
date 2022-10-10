@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arghadip Biswas</h1>
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px"> Hi, I'm Arghadip Biswas 🤓</h1>
 <h3 align="center">A passionate frontend developer from India</h3><br>
 <a href="https://github.com/arghadipbiswas" target="blank"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></a> 
 
@@ -12,6 +12,7 @@
 - 📫 How to reach me **arghadipbiswas4076@gmail.com**
 - :mailbox: You can reach me with the links below :
 <br><br><br><br>
+<img align="left" alt="GIF" src="https://media.giphy.com/media/YMjxt3IpkgY20VBFRG/source.gif" alt="Welcome to Shyam Github Page"  height="250px" width="250px" />
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghadip-biswas-756a03202/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghadipbiswas4076@gmail.com)
