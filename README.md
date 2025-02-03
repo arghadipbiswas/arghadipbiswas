@@ -16,9 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arghadip-biswas-756a03202/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arghadipbiswas4076@gmail.com)
-[![arghadipbiswas.com](https://img.shields.io/badge/-ARGHADIPBISWAS.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://arghadipbiswas.github.io/account/)
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arghadip.biswas.52)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-0077B5?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/arghadip.biswas.52)
+[![arghadipbiswas.com](https://img.shields.io/badge/-ARGHADIPBISWAS.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://arghadipbiswas.github.io/arghadipb/)
 
 ##### Languages I use: 
 
